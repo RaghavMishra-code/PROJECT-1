@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search_here">Search here</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="gas">Gas</string>
+    <string name="groceries">Groceries</string>
+    <string name="coffee">Coffee</string>
+    <string name="search_icon_desc">Search</string>
+    <string name="voice_search_desc">Voice search</string>
+    <string name="profile_desc">Profile</string>
+    <string name="map_layers_desc">Map layers</string>
+    <string name="my_location_desc">My location</string>
+</resources>
